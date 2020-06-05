@@ -1,14 +1,14 @@
-# Voice Gender
-## Gender Recognition by Voice and Speech Analysis
+
+# Gender Recognition by Voice and Speech Analysis
 
 This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0hz-280hz (human vocal range).
 
 The Dataset
 The following acoustic properties of each voice are measured and included within the CSV:
 
-meanfreq: mean frequency (in kHz)
-sd: standard deviation of frequency
-median: median frequency (in kHz)
+⋅⋅*meanfreq: mean frequency (in kHz)
+⋅⋅*sd: standard deviation of frequency
+⋅⋅*median: median frequency (in kHz)
 Q25: first quantile (in kHz)
 Q75: third quantile (in kHz)
 IQR: interquantile range (in kHz)
