@@ -5,8 +5,8 @@ This database was created to identify a voice as male or female, based upon acou
 
 
 ### The Dataset
-The following acoustic properties of each voice are measured and included within the CSV:
 [Kaggle](https://www.kaggle.com/primaryobjects/voicegender)
+The following acoustic properties of each voice are measured and included within the CSV:
 
 * meanfreq: mean frequency (in kHz)
 * sd: standard deviation of frequency
