@@ -6,9 +6,9 @@ This database was created to identify a voice as male or female, based upon acou
 The Dataset
 The following acoustic properties of each voice are measured and included within the CSV:
 
-⋅⋅* meanfreq: mean frequency (in kHz)
-⋅⋅* sd: standard deviation of frequency
-⋅⋅* median: median frequency (in kHz)
+* meanfreq: mean frequency (in kHz)
+* sd: standard deviation of frequency
+* median: median frequency (in kHz)
 Q25: first quantile (in kHz)
 Q75: third quantile (in kHz)
 IQR: interquantile range (in kHz)
