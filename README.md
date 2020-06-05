@@ -29,3 +29,5 @@ The following acoustic properties of each voice are measured and included within
 * dfrange: range of dominant frequency measured across acoustic signal
 * modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental  frequencies divided by the frequency range
 * label: male or female
+
+![alt-text](https://github.com/emreyesilyurt/gender_recognition_by_voice/blob/master/images/Npr2U7O.png?raw=true)
