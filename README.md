@@ -30,4 +30,9 @@ The following acoustic properties of each voice are measured and included within
 * modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental  frequencies divided by the frequency range
 * label: male or female
 
+## CART Diagram
+
 ![alt-text](https://github.com/emreyesilyurt/gender_recognition_by_voice/blob/master/images/Npr2U7O.png?raw=true)
+
+Mean fundamental frequency appears to be an indicator of voice gender, with a threshold of 140hz separating male from female classifications.
+
